@@ -1,8 +1,8 @@
 # 8-ми клас
-[Материали от часовете по Информатика от 8-ми клас](https://github.com/DimitarSht/Informatics_9A_2024_2025/tree/main/8-%D0%BC%D0%B8%20%D0%BA%D0%BB%D0%B0%D1%81)
+[Материали от часовете по Информатика от 8-ми клас](https://github.com/DimitarSht/Informatics_9A_2024_2025/Grade_8)
 
 # 9-ти клас
-- [Преговор](#Revision)  
+- [Преговор](https://github.com/DimitarSht/Informatics_9A_2024_2025/Grade_9/Term_01/Week_01_revision_20_09_2024)  
 - [Едномерни масиви](#Arrays)  
 - [Двумерни масиви](#Arrays)  
 - [Функции](#Functions)  
