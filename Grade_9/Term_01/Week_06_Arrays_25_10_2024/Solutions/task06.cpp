@@ -2,7 +2,7 @@
 using namespace std;
 int main ()
 {
-    int N, MIN = 10000, MAX = 0;, cnt = 0;
+    int N, MIN = 10000, MAX = 0, cnt = 0;
     cin >> N;
     double arr[N];
     double average=0;
