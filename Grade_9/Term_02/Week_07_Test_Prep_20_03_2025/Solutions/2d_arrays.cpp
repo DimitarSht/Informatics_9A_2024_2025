@@ -15,6 +15,8 @@ int main()
             cin>>matrix[i][j];
         }
     }
+
+    /// Извеждане на двумерния масив в табличен видs
     for(int i = 0; i < rows; i++)
     {
         for(int j = 0; j < cols; j++)
